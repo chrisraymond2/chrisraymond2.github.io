@@ -17,7 +17,7 @@ Plain static site (HTML + one stylesheet), ready for GitHub Pages. No build step
 
 ## Publish on GitHub Pages
 
-1. Create a public repository named `<username>.github.io`.
-2. Upload all files in this folder (keep the folder structure).
-3. Settings → Pages → Deploy from a branch → `main`, `/ (root)`.
-4. Once you have a domain, enter it under Settings → Pages → Custom domain (GitHub adds a `CNAME` file for you).
+#  1. Create a public repository named `<username>.github.io`.
+#  2. Upload all files in this folder (keep the folder structure).
+#  3. Settings → Pages → Deploy from a branch → `main`, `/ (root)`.
+#  4. Once you have a domain, enter it under Settings → Pages → Custom domain (GitHub adds a `CNAME` file for you).
